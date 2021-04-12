@@ -1,0 +1,1 @@
+function changecolorwhite(){ document.getElementByID("para").style.color="white";
